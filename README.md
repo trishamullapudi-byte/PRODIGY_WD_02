@@ -11,4 +11,4 @@ JavaScript – Stopwatch functionality and timer logic
 Through this project, I learned:
 Implementing interactive UI elements
 Responsive design principles
-# Live Demo:
+# Live Demo: https://trishamullapudi-byte.github.io/PRODIGY_WD_02/
